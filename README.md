@@ -88,3 +88,5 @@
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuratZGunes&theme=radical" alt="Profile Details" />
 </p>
+
+![snake gif](https://github.com/muratzgunes/muratzgunes/blob/output/github-contribution-grid-snake.gif)
