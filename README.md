@@ -10,8 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muratzgunes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muratzgunes) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muratzgunes) 
 <a href="https://github.com/MuratZGunes?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/followers/MuratZGunes?label=Follow&style=social" alt="GitHub Followers">
 </a>
