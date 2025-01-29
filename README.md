@@ -5,7 +5,8 @@
 
 ---
 
-🔭 I’m currently working on AI Hotel Booking With Django.<br><br>🌱 I’m currently learning TensorFlow, PyTorch, Pandas, NumPy, OpenCV.<br><br>👨‍💻 All of my projects are available at My GitHub Repositories.<br><br>💬 Ask me about anything related to Python and my projects.<br><br>📫 How to reach me: muratsegunes@gmail.com.<br><br>⚡ Fun fact: I love combining gaming and AI to create unique experiences!
+
+🔭 I’m currently working on [AI Hotel Booking With Django](https://github.com/MuratZGunes/AI-Hotel-Booking-With-Django).<br><br>🌱 I’m currently learning TensorFlow, PyTorch, Pandas, NumPy, OpenCV.<br><br>👨‍💻 All of my projects are available at My GitHub Repositories.<br><br>💬 Ask me about anything related to Python and my projects.<br><br>📫 How to reach me: muratsegunes@gmail.com.<br><br>⚡ Fun fact: I love combining gaming and AI to create unique experiences!
 
 
 ## 🌐 Socials:
